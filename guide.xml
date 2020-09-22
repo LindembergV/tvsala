@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Discovery Channel HD">
+    <display-name lang="pt">Discovery Channel HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="pt">H2 HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="National Geographic HD">
+    <display-name lang="pt">National Geographic HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+</tv>
